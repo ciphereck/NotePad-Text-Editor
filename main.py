@@ -5,7 +5,7 @@ import FileMenu
 import ScrolledText
         # as Tkinter Text Area does not provide Scrolling
 
-root = Tkinter.Tk(className="NotePad")
+root = Tkinter.Tk(className="NotePad : Text Editor")
 textPad = ScrolledText.ScrolledText(root, width = 95, height = 45,bg="BLACK",fg="MediumBlue",
                     bd=10,font="Helvetica 16 bold italic",cursor="xterm",highlightcolor="green",
                     highlightbackground="indian red", highlightthickness=5, insertborderwidth=3,
