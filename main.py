@@ -1,7 +1,6 @@
 import Tkinter
 import tkFileDialog
 import tkMessageBox
-import FileMenu
 import ScrolledText
         # as Tkinter Text Area does not provide Scrolling
 
